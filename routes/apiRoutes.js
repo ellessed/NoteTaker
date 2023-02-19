@@ -28,7 +28,4 @@ router.post("/notes", (req, res) => {
   return res.json(newNote);
 });
 
-// import uuid
-// use uuidv4 to create a random id for every note in your db.json
-// that id is how you target a specific note
 module.exports = router;
