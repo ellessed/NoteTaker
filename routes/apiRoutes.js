@@ -27,8 +27,6 @@ router.post("/notes", (req, res) => {
   writeDataToFile(JSON.stringify(notes));
   return res.json(newNote);
 });
-// readFileSync
-// writeFileSync
 
 // import uuid
 // use uuidv4 to create a random id for every note in your db.json
