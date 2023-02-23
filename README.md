@@ -26,4 +26,4 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Link to application
 
-https://week11.herokuapp.com/
+https://ellesseweek11notetaker.herokuapp.com/
